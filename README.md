@@ -5,7 +5,6 @@ Modified version of [this](http://adventuresinmachinelearning.com/gensim-word2ve
 
 **Data source**: [YTU Kemik TEAM - 42K News](http://www.kemik.yildiz.edu.tr/?id=28)
 
-Model weights and mapping dictionaries can be found 
 
 #### TODO
 - Better text preprocessing.
